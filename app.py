@@ -5,7 +5,7 @@ st.header("This is a header")
 st.subheader("This is a subheader")
 
 st.text("Hello World. Streamlit text")
-name = 'Jungu Lee'
+name = 'Hayeon Kim'
 st.text('Hi, {}'.format(name))
 
 st.markdown("## This is markdown")
